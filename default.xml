@@ -1470,4 +1470,7 @@
   </project>
   <!-- END open-source projects -->
 
+  <!-- Remove unused AOSP repos -->
+  <include name="snippets/remove.xml" />
+  
 </manifest>
