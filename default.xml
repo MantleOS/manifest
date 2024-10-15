@@ -1472,5 +1472,10 @@
 
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
-  
+
+  <!-- Include MantleOS repos-->
+  <include name="snippets/mantle.xml" />
+  <include name="snippets/blaze.xml" />
+  <include name="snippets/lineage.xml" />
+
 </manifest>
